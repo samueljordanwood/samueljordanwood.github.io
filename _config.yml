@@ -126,19 +126,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:samjw25@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://samueljordanwood.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/samajordanwood"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-flinkedin-square"
-      # url: "https://linkedin.com/samuel-asher-jordan-wood98"
-
+   
 
 # Reading Files
 include: ["_pages"]
