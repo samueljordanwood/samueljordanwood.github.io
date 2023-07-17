@@ -7,7 +7,7 @@ layout: splash
 #  nav: "docs"
 ---
 
-<img style="float: left;" src="/assets/sjw.jpg" width="250">
+<img style="float: right;" src="/assets/sjw.jpg" width="250">
 
 I am a Senior Research Associate at the [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/).
 
