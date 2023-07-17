@@ -21,3 +21,6 @@ Currently I am applying to PhD programs to start in the fall of 2024.
 **Contact**:
 <samjw25@gmail.com>
 
+
+[LinkedIn](https://www.linkedin.com/in/samuel-asher-jordan-wood98/) // [Twitter](https://twitter.com/samajordanwood)
+
