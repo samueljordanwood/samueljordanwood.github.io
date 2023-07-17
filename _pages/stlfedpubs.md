@@ -41,5 +41,5 @@ with Julian Kozlowski, *On the Economy Blog, January 2023*
 10. [Marginal vs. Average Mortgage Rates](https://www.stlouisfed.org/on-the-economy/2023/jun/marginal-vs-average-mortgage-rates)<br/>
 with Julian Kozlowski, *On the Economy Blog, June 2023*
 11. [Excess Retirements Continue despite Ebbing COVID-19 Pandemic](https://www.stlouisfed.org/on-the-economy/2023/jun/excess-retirements-covid19-pandemic)<br/>
-with Miguel Faria-e-Castro, *On the Economy Blog, June 2023*. Mentions: [MNI](https://marketnews.com/mni-interview-excess-retirements-peak-set-to-recede-fed-econ) [Investopedia](https://www.investopedia.com/why-no-one-wants-to-work-anymore-pandemic-market-boom-let-millions-retire-7554784)
+with Miguel Faria-e-Castro, *On the Economy Blog, June 2023*. Mentions: [MNI](https://marketnews.com/mni-interview-excess-retirements-peak-set-to-recede-fed-econ), [Investopedia](https://www.investopedia.com/why-no-one-wants-to-work-anymore-pandemic-market-boom-let-millions-retire-7554784)
 ---
