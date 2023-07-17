@@ -32,7 +32,7 @@ with Christopher J. Neely, *On the Economy Blog, June 2022*
 with Miguel Faria-e-Castro, *On the Economy Blog, August 2022*
 6. [Market Liquidity and the Quantity Theory of Money](https://www.stlouisfed.org/on-the-economy/2022/aug/market-liquidity-quantity-theory-money)<br/>
 with Julian Kozlowski, *On the Economy Blog, August 2022*
-7. [The dollar and euro exchange rates break even](https://fredblog.stlouisfed.org/2022/08/the-dollar-and-euro-exchange-rates-break-even/)
+7. [The dollar and euro exchange rates break even](https://fredblog.stlouisfed.org/2022/08/the-dollar-and-euro-exchange-rates-break-even/)<br/>
 with Miguel Faria-e-Castro, *FRED blog, August 2022*
 8. [Retirements, Net Worth, and the Fall and Rise of Labor Force Participation](https://www.stlouisfed.org/on-the-economy/2023/jan/retirements-net-worth-labor-force-participation)<br/>
 with Miguel Faria-e-Castro, *On the Economy Blog, January 2023*
