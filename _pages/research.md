@@ -13,7 +13,8 @@ layout: splash
 ## Work in Progress
 1. The Bond-Loan Spread <br/>
 with Miguel Faria-e-Castro and Julian Kozlowski 
-
+1. The Evolution of the Earnings Differential Between Paid and Self-Employment <br/>
+Undergradute Thesis <br/>
 ---
 ## Publications
 1. [Pandemic Labor Force Participation and Net Worth Fluctuations](https://s3.amazonaws.com/real.stlouisfed.org/wp/2023/2023-010.pdf) <br/>
