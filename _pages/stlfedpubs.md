@@ -17,6 +17,8 @@ with Julian Kozlowski, *Economic Synopsis, No. 24, 2022.*
 with Julian Kozlowski, *Economic Synopsis, No. 33, 2022.*
 3. [Assessing the Costs of Rolling Over Government Debt](https://doi.org/10.20955/es.2023.13)<br/>
 with Julian Kozlowski, *Economic Synopsis, No. 13, 2023.* <br/>
+4. [Commercial Real Estate: Where are the Risks?](https://doi.org/10.20955/es.2023.22)<br/>
+with Miguel Faria-e-Castro, *Economic Synopsis, No. 22, 2023.* <br/>
 ---
 ## Blog Posts
 
@@ -41,5 +43,7 @@ with Julian Kozlowski, *On the Economy Blog, January 2023*
 10. [Marginal vs. Average Mortgage Rates](https://www.stlouisfed.org/on-the-economy/2023/jun/marginal-vs-average-mortgage-rates)<br/>
 with Julian Kozlowski, *On the Economy Blog, June 2023*
 11. [Excess Retirements Continue despite Ebbing COVID-19 Pandemic](https://www.stlouisfed.org/on-the-economy/2023/jun/excess-retirements-covid19-pandemic)<br/>
-with Miguel Faria-e-Castro, *On the Economy Blog, June 2023*. Mentions: [MNI](https://marketnews.com/mni-interview-excess-retirements-peak-set-to-recede-fed-econ), [Investopedia](https://www.investopedia.com/why-no-one-wants-to-work-anymore-pandemic-market-boom-let-millions-retire-7554784) <br/>
+with Miguel Faria-e-Castro, *On the Economy Blog, June 2023*. Mentions: [MNI](https://marketnews.com/mni-interview-excess-retirements-peak-set-to-recede-fed-econ), [Investopedia](https://www.investopedia.com/why-no-one-wants-to-work-anymore-pandemic-market-boom-let-millions-retire-7554784), [Bloomberg](https://www.bloomberg.com/news/articles/2023-11-06/us-retiree-surplus-is-still-near-two-million-years-after-covid?embedded-checkout=true) <br/>
+12. [Residential Segregation and the Black-White College Gap](https://www.stlouisfed.org/on-the-economy/2023/nov/residential-segregation-black-white-college-gap)<br/>
+with Victoria Gregory, Julian Kozlowski, and Hannah Rubinton, *On the Economy Blog, November 2023*
 ---
