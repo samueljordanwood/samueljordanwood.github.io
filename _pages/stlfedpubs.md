@@ -19,7 +19,7 @@ with Julian Kozlowski, *Economic Synopsis, No. 33, 2022.*
 with Julian Kozlowski, *Economic Synopsis, No. 13, 2023.* <br/>
 4. [Commercial Real Estate: Where are the Risks?](https://doi.org/10.20955/es.2023.22)<br/>
 with Miguel Faria-e-Castro, *Economic Synopsis, No. 22, 2023.* <br/>
----
+
 ## Blog Posts
 
 1. [The Comovement between Credit Spreads, Corporate Debt and Liquid Assets in Recent Crises](https://www.stlouisfed.org/on-the-economy/2021/november/comovement-credit-spreads-debt-assets-crises)<br/>
@@ -46,4 +46,4 @@ with Julian Kozlowski, *On the Economy Blog, June 2023*
 with Miguel Faria-e-Castro, *On the Economy Blog, June 2023*. Mentions: [MNI](https://marketnews.com/mni-interview-excess-retirements-peak-set-to-recede-fed-econ), [Investopedia](https://www.investopedia.com/why-no-one-wants-to-work-anymore-pandemic-market-boom-let-millions-retire-7554784), [Bloomberg](https://www.bloomberg.com/news/articles/2023-11-06/us-retiree-surplus-is-still-near-two-million-years-after-covid?embedded-checkout=true) <br/>
 12. [Residential Segregation and the Black-White College Gap](https://www.stlouisfed.org/on-the-economy/2023/nov/residential-segregation-black-white-college-gap)<br/>
 with Victoria Gregory, Julian Kozlowski, and Hannah Rubinton, *On the Economy Blog, November 2023*
----
+
