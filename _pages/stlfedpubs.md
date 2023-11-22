@@ -18,7 +18,7 @@ with Julian Kozlowski, *Economic Synopsis, No. 33, 2022.*
 3. [Assessing the Costs of Rolling Over Government Debt](https://doi.org/10.20955/es.2023.13)<br/>
 with Julian Kozlowski, *Economic Synopsis, No. 13, 2023.* <br/>
 4. [Commercial Real Estate: Where are the Risks?](https://doi.org/10.20955/es.2023.22)<br/>
-with Miguel Faria-e-Castro, *Economic Synopsis, No. 22, 2023.* <br/>
+with Miguel Faria-e-Castro, *Economic Synopsis, No. 22, 2023.* Mentions: [Central Banking](https://www.centralbanking.com/central-banks/financial-stability/7960273/smaller-us-banks-face-unequal-real-estate-risk-paper-says?check_logged_in=1)<br/>
 
 ## Blog Posts
 
@@ -46,7 +46,7 @@ with Julian Kozlowski, *On the Economy Blog, June 2023*
 with Miguel Faria-e-Castro, *On the Economy Blog, June 2023*. Mentions: [MNI](https://marketnews.com/mni-interview-excess-retirements-peak-set-to-recede-fed-econ), [Investopedia](https://www.investopedia.com/why-no-one-wants-to-work-anymore-pandemic-market-boom-let-millions-retire-7554784), [Bloomberg](https://www.bloomberg.com/news/articles/2023-11-06/us-retiree-surplus-is-still-near-two-million-years-after-covid?embedded-checkout=true) <br/>
 12. [Residential Segregation and the Black-White College Gap](https://www.stlouisfed.org/on-the-economy/2023/nov/residential-segregation-black-white-college-gap)<br/>
 with Victoria Gregory, Julian Kozlowski, and Hannah Rubinton, *On the Economy Blog, November 2023*
-13. [Federal Reserve remittances to the US Treasury](https://www.stlouisfed.org/on-the-economy/2023/nov/fed-remittances-treasury-explaining-deferred-asset)<br/>
+13. [Federal Reserve remittances to the US Treasury](https://fredblog.stlouisfed.org/2023/11/federal-reserve-remittances-to-the-us-treasury/)<br/>
 with Miguel Faria-e-Castro, *FRED blog, November 2023*
 14. [The Fed's Remittances to the Treasury: Explaining the 'Deferred Asset'](https://fredblog.stlouisfed.org/2023/11/federal-reserve-remittances-to-the-us-treasury/)<br/>
 with Miguel Faria-e-Castro, *On the Economy Blog, November 2023*
