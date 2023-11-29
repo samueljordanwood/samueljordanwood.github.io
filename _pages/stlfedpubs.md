@@ -48,8 +48,8 @@ with Miguel Faria-e-Castro, *On the Economy Blog, June 2023*. Mentions: [MNI](ht
 with Victoria Gregory, Julian Kozlowski, and Hannah Rubinton, *On the Economy Blog, November 2023*
 13. [Federal Reserve remittances to the US Treasury](https://fredblog.stlouisfed.org/2023/11/federal-reserve-remittances-to-the-us-treasury/)<br/>
 with Miguel Faria-e-Castro, *FRED blog, November 2023*
-14. [The Fed's Remittances to the Treasury: Explaining the 'Deferred Asset'](https://fredblog.stlouisfed.org/2023/11/federal-reserve-remittances-to-the-us-treasury/)<br/>
-with Miguel Faria-e-Castro, *On the Economy Blog, November 2023*
+14. [The Fed's Remittances to the Treasury: Explaining the 'Deferred Asset'](https://www.stlouisfed.org/on-the-economy/2023/nov/fed-remittances-treasury-explaining-deferred-asset))<br/>
+with Miguel Faria-e-Castro, *On the Economy Blog, November 2023*. Mentions: [Reuters](https://www.reuters.com/business/fed-may-need-four-years-recoup-income-loss-st-louis-fed-study-says-2023-11-27/)
 
 
 
