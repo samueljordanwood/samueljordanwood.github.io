@@ -22,7 +22,6 @@ with Miguel Faria-e-Castro, *Economic Synopsis, No. 22, 2023.* Mentions: [Centra
 5. ["Stress Testing" Banks on Commercial Real Estate](https://doi.org/10.20955/es.2023.26)<br/>
 with Miguel Faria-e-Castro, *Economic Synopsis, No. 26, 2023.*<br/>
 
-https://research.stlouisfed.org/publications/economic-synopses/2023/12/18/stress-testing-banks-on-commercial-real-estate
 ## Blog Posts
 
 1. [The Comovement between Credit Spreads, Corporate Debt and Liquid Assets in Recent Crises](https://www.stlouisfed.org/on-the-economy/2021/november/comovement-credit-spreads-debt-assets-crises)<br/>
