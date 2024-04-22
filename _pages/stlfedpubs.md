@@ -52,6 +52,8 @@ with Victoria Gregory, Julian Kozlowski, and Hannah Rubinton, *On the Economy Bl
 with Miguel Faria-e-Castro, *FRED blog, November 2023*
 14. [The Fed's Remittances to the Treasury: Explaining the 'Deferred Asset'](https://www.stlouisfed.org/on-the-economy/2023/nov/fed-remittances-treasury-explaining-deferred-asset)<br/>
 with Miguel Faria-e-Castro, *On the Economy Blog, November 2023*. Mentions: [Reuters](https://www.reuters.com/business/fed-may-need-four-years-recoup-income-loss-st-louis-fed-study-says-2023-11-27/), [Wall Street Journal](https://www.wsj.com/articles/pro-take-fed-operating-losses-are-piling-up-amid-higher-interest-rates-5fbf927e#), [Turkish State Media](https://www.aa.com.tr/tr/dunya/fedin-zarari-122-6-milyar-dolara-ulasti/3074371)
-
-
+15. [Comparing household assets across the wealth distribution](https://fredblog.stlouisfed.org/2024/04/comparing-household-assets-across-the-wealth-distribution/)<br/>
+with Miguel Faria-e-Castro, *FRED blog, April 2024*
+16. [Commercial Real Estate Exposure and Bank Stock Returns](https://www.stlouisfed.org/on-the-economy/2024/apr/commercial-real-estate-exposure-bank-stock-returns)<br/>
+with Miguel Faria-e-Castro, *On the Economy Blog, April 2024*. 
 
