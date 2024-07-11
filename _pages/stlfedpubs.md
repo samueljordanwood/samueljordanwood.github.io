@@ -56,4 +56,9 @@ with Miguel Faria-e-Castro, *On the Economy Blog, November 2023*. Mentions: [Reu
 with Miguel Faria-e-Castro, *FRED blog, April 2024*
 16. [Commercial Real Estate Exposure and Bank Stock Returns](https://www.stlouisfed.org/on-the-economy/2024/apr/commercial-real-estate-exposure-bank-stock-returns)<br/>
 with Miguel Faria-e-Castro, *On the Economy Blog, April 2024*. 
-
+17. [Rising Liquidity among U.S. Households and Its Policy Implications](https://www.stlouisfed.org/on-the-economy/2024/may/rising-liquidity-us-households-policy-implications)<br/>
+with Julian Kozlowski, *On the Economy Blog, May 2024*.
+18. [The Price Elasticity of Demand and Celebrity Brands](https://www.stlouisfed.org/open-vault/2024/june/price-elasticity-demand-explained)<br/>
+*Open Vault Blog, June 2024*.
+19. [Recent Trends in Bank Holding Companies' Commercial Real Estate Exposure ](https://www.stlouisfed.org/on-the-economy/2024/jul/trends-banks-commercial-real-estate-exposure)<br/>
+with Miguel Faria-e-Castro and Marie Hogan, *On the Economy Blog, July 2024*. 
