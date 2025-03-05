@@ -19,5 +19,5 @@ Previously, I was a Research Associate at the [Federal Reserve Bank of St. Louis
 <samjw25@gmail.com>
 
 
-[LinkedIn](https://www.linkedin.com/in/samuel-asher-jordan-wood98/) // [Twitter](https://twitter.com/samajordanwood)
+[LinkedIn](https://www.linkedin.com/in/samuel-asher-jordan-wood98/) 
 
