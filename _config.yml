@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sam Jordan-Wood"
+title                    : "Samuel Jordan-Wood"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Sam Jordan-Wood"
+name                     : "Samuel Jordan-Wood"
 description              : "Samuel Jordan-Wood Website"
 url                      : "https://www.samueljordanwood.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Samuel Jordan-Wood"
   avatar           : "/assets/sjw.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : Research Associate @ St. Louis Fed and PhD Applicant #"I am an **amazing** person."
-  location         : St.Louis, Missouri #"Somewhere"
+  bio              : PhD Student at NYU #"I am an **amazing** person."
+  location         : New York, NY #"Somewhere"
   email            : samjw25@gmail.com
   links:
     - label: "Email"
