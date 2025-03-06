@@ -13,7 +13,7 @@ I am a PhD student in economics at [NYU](https://as.nyu.edu/departments/econ.htm
 
 Previously, I was a Research Associate at the [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/). Before that, I graduated from the University of Minnesota Twin Cities in 2021, with a B.S. in economics.
 
-[**CV**](http://www.samueljordanwood.com/papers/sjw_cv.pdf), as of March 2025
+[**CV**](http://www.samueljordanwood.com/papers/sjw_cv_mar2025.pdf), as of March 2025
 
 **Contact**:
 <samjw25@gmail.com>
